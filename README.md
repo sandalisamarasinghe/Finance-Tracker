@@ -1,4 +1,4 @@
-# ImiliPocket - Personal Finance Tracker
+#  Personal Finance Tracker
 
 ImiliPocket is a modern Android application for tracking personal finances, designed specifically for students learning mobile development. The app provides a clean and intuitive interface for managing transactions, analyzing spending patterns, and maintaining a monthly budget.
 
@@ -72,5 +72,6 @@ app/
 This project is designed for educational purposes. Feel free to fork and modify for learning purposes.
 
 ## License
+
 
 This project is licensed under the MIT License - see the LICENSE file for details. 
